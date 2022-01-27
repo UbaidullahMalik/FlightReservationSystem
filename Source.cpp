@@ -1,8 +1,3 @@
-/*
-* Name : Ubaidullah
-* Roll no : 20i0541
-* Sec : T
-*/
 #include <iostream>
 #include<iomanip>
 #include<cstdlib>
